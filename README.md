@@ -21,3 +21,30 @@ QA_Automation_Selenium_StudyCase/
 │ │ └── CheckoutTest.java
 └── test-output/
 ├── ExtentReport.html # Report hasil test
+
+---
+
+🧾 Studi Kasus
+✅ Login Test
+
+- Valid Login → user standard_user berhasil masuk ke halaman inventory.
+
+- Invalid Login → user salah mendapat pesan error.
+
+🛒 Checkout Flow Test
+
+- Login dengan user standard_user
+
+- Tambah produk ke keranjang
+
+- Isi data checkout
+
+- Selesaikan pesanan → verifikasi pesan "THANK YOU FOR YOUR ORDER"
+
+📊 Reporting (Extent Report)
+
+- Extent Report akan menghasilkan:
+
+- Status Pass / Fail / Skip
+
+- Log detail per test
