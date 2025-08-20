@@ -24,7 +24,8 @@ QA_Automation_Selenium_StudyCase/
 
 ---
 
-🧾 Studi Kasus
+## 🧾 Studi Kasus 
+
 ✅ Login Test
 
 - Valid Login → user standard_user berhasil masuk ke halaman inventory.
@@ -39,7 +40,7 @@ QA_Automation_Selenium_StudyCase/
 
 - Isi data checkout
 
-- Selesaikan pesanan → verifikasi pesan "THANK YOU FOR YOUR ORDER"
+- Selesaikan pesanan → verifikasi pesan "Thank you for your order!"
 
 📊 Reporting (Extent Report)
 
