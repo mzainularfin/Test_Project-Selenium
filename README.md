@@ -18,9 +18,9 @@ QA_Automation_Selenium_StudyCase/
 │ ├── tests/
 │ │ ├── BaseTest.java
 │ │ ├── LoginTest.java
-│ │ └── CheckoutTest.java
-└── test-output/
-├── ExtentReport.html # Report hasil test
+│   └── CheckoutTest.java
+├── test-output/
+└── ExtentReport.html # Report hasil test
 
 ---
 
