@@ -11,17 +11,18 @@ Demo website yang digunakan: [saucedemo.com](https://www.saucedemo.com/)
 
 ---
 
-## 📂 Struktur Project
+📂 Struktur Project
+``` 
 QA_Automation_Selenium_StudyCase/
 ├── pom.xml
 ├── src/test/java/
 │ ├── tests/
 │ │ ├── BaseTest.java
 │ │ ├── LoginTest.java
-│   └── CheckoutTest.java
+│ │ └── CheckoutTest.java
 ├── test-output/
 └── ExtentReport.html # Report hasil test
-
+```
 ---
 
 ## 🧾 Studi Kasus 
